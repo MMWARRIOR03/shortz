@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "net.touchcapture.qr.flutterqrplus.qr_code_scanner_plus-mergeReleaseResources-28:/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/Users/mrinalmohit/.gradle/caches/8.9/transforms/49f0c47cfffbb9c8faf5eff65aa831eb/transformed/appcompat-1.6.1/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "net.touchcapture.qr.flutterqrplus.qr_code_scanner_plus-release-30:/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/Users/mrinalmohit/.gradle/caches/8.9/transforms/49f0c47cfffbb9c8faf5eff65aa831eb/transformed/appcompat-1.6.1/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/Users/mrinalmohit/.pub-cache/hosted/pub.dev/saver_gallery-3.0.10/android"
+    name=":saver_gallery"
+    type="LIBRARY"
+    maven="com.mhz.savegallery.saver_gallery:saver_gallery:1.0-SNAPSHOT"
+    agpVersion="8.5.2"
+    buildFolder="/Users/mrinalmohit/Documents/Flutter apps/shortz/build/saver_gallery"
+    bootClassPath="/Users/mrinalmohit/Library/Android/sdk/platforms/android-34/android.jar:/Users/mrinalmohit/Library/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.retrytech.bubbly_camera-release-47:/xml/standalone_badge_gravity_bottom_start.xml",
+        "source": "com.retrytech.bubbly_camera-material-1.6.0-10:/xml/standalone_badge_gravity_bottom_start.xml"
+    },
+    {
+        "merged": "com.retrytech.bubbly_camera-release-47:/xml/standalone_badge_gravity_top_start.xml",
+        "source": "com.retrytech.bubbly_camera-material-1.6.0-10:/xml/standalone_badge_gravity_top_start.xml"
+    },
+    {
+        "merged": "com.retrytech.bubbly_camera-release-47:/xml/standalone_badge.xml",
+        "source": "com.retrytech.bubbly_camera-material-1.6.0-10:/xml/standalone_badge.xml"
+    },
+    {
+        "merged": "com.retrytech.bubbly_camera-release-47:/xml/standalone_badge_gravity_bottom_end.xml",
+        "source": "com.retrytech.bubbly_camera-material-1.6.0-10:/xml/standalone_badge_gravity_bottom_end.xml"
+    },
+    {
+        "merged": "com.retrytech.bubbly_camera-release-47:/xml/standalone_badge_offset.xml",
+        "source": "com.retrytech.bubbly_camera-material-1.6.0-10:/xml/standalone_badge_offset.xml"
+    }
+]

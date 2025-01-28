@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "br.com.rsmarques.flutter_branch_sdk-release-32:/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "br.com.rsmarques.flutter_branch_sdk-appcompat-1.2.0-0:/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "br.com.rsmarques.flutter_branch_sdk-release-32:/color-v23/abc_btn_colored_text_material.xml",
+        "source": "br.com.rsmarques.flutter_branch_sdk-appcompat-1.2.0-0:/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "br.com.rsmarques.flutter_branch_sdk-release-32:/color-v23/abc_color_highlight_material.xml",
+        "source": "br.com.rsmarques.flutter_branch_sdk-appcompat-1.2.0-0:/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "br.com.rsmarques.flutter_branch_sdk-release-32:/color-v23/abc_tint_edittext.xml",
+        "source": "br.com.rsmarques.flutter_branch_sdk-appcompat-1.2.0-0:/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "br.com.rsmarques.flutter_branch_sdk-release-32:/color-v23/abc_tint_default.xml",
+        "source": "br.com.rsmarques.flutter_branch_sdk-appcompat-1.2.0-0:/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "br.com.rsmarques.flutter_branch_sdk-release-32:/color-v23/abc_tint_switch_track.xml",
+        "source": "br.com.rsmarques.flutter_branch_sdk-appcompat-1.2.0-0:/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "br.com.rsmarques.flutter_branch_sdk-release-32:/color-v23/abc_tint_spinner.xml",
+        "source": "br.com.rsmarques.flutter_branch_sdk-appcompat-1.2.0-0:/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "br.com.rsmarques.flutter_branch_sdk-release-32:/color-v23/abc_tint_btn_checkable.xml",
+        "source": "br.com.rsmarques.flutter_branch_sdk-appcompat-1.2.0-0:/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "br.com.rsmarques.flutter_branch_sdk-release-32:/color-v23/abc_tint_seek_thumb.xml",
+        "source": "br.com.rsmarques.flutter_branch_sdk-appcompat-1.2.0-0:/color-v23/abc_tint_seek_thumb.xml"
+    }
+]

@@ -1,0 +1,27 @@
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-lifecycle-viewmodel-savedstate-2.7.0-0 /Users/mrinalmohit/.gradle/caches/8.9/transforms/009938067f0c30e56bef45e8ae578da2/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-annotation-experimental-1.4.0-1 /Users/mrinalmohit/.gradle/caches/8.9/transforms/06d8cd999ae639b9a2c8456f84edb213/transformed/jetified-annotation-experimental-1.4.0/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-savedstate-1.2.1-2 /Users/mrinalmohit/.gradle/caches/8.9/transforms/08bc8852f31102ca4239d4777d71eaba/transformed/jetified-savedstate-1.2.1/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-lifecycle-livedata-2.7.0-3 /Users/mrinalmohit/.gradle/caches/8.9/transforms/0b078d6a1e87668da1ec2f1bc106ab97/transformed/lifecycle-livedata-2.7.0/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-lifecycle-viewmodel-2.7.0-4 /Users/mrinalmohit/.gradle/caches/8.9/transforms/0d1a80e127bad43726a2ad7dd332135f/transformed/lifecycle-viewmodel-2.7.0/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-window-java-1.2.0-5 /Users/mrinalmohit/.gradle/caches/8.9/transforms/1d18da0d23c05096aabaa90c56582561/transformed/jetified-window-java-1.2.0/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-core-1.13.1-6 /Users/mrinalmohit/.gradle/caches/8.9/transforms/3cda7ab98978aa6c4e584ecab06ff336/transformed/core-1.13.1/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-startup-runtime-1.1.1-7 /Users/mrinalmohit/.gradle/caches/8.9/transforms/61810abc446ef04e4d583211f7c37208/transformed/jetified-startup-runtime-1.1.1/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-profileinstaller-1.3.1-8 /Users/mrinalmohit/.gradle/caches/8.9/transforms/80153a86fd6536280be1fe9b8b81e47a/transformed/jetified-profileinstaller-1.3.1/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-lifecycle-process-2.7.0-9 /Users/mrinalmohit/.gradle/caches/8.9/transforms/869af6f52ba1dd0d0c3157f6ef2baca0/transformed/jetified-lifecycle-process-2.7.0/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-core-runtime-2.2.0-10 /Users/mrinalmohit/.gradle/caches/8.9/transforms/871c5c84a1ccc19876007a7a5066fb64/transformed/core-runtime-2.2.0/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-lifecycle-livedata-core-ktx-2.7.0-11 /Users/mrinalmohit/.gradle/caches/8.9/transforms/989a8d972178fc2a8e95b6e6ac0a7708/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-lifecycle-livedata-core-2.7.0-12 /Users/mrinalmohit/.gradle/caches/8.9/transforms/a661de740094eed2e5deff2ceb8730ab/transformed/lifecycle-livedata-core-2.7.0/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-window-1.2.0-13 /Users/mrinalmohit/.gradle/caches/8.9/transforms/a890e60e336ca6df1c94d5d74fc71963/transformed/jetified-window-1.2.0/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-tracing-1.2.0-14 /Users/mrinalmohit/.gradle/caches/8.9/transforms/c12a841cddda8854fe26786ad68d353b/transformed/jetified-tracing-1.2.0/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-fragment-1.7.1-15 /Users/mrinalmohit/.gradle/caches/8.9/transforms/cbc2214f893a44a16d2d421ad47468a6/transformed/fragment-1.7.1/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-core-1.0.0-16 /Users/mrinalmohit/.gradle/caches/8.9/transforms/d3a85fb47a0f2b141ddc3d608f34d8ac/transformed/jetified-core-1.0.0/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-activity-1.8.1-17 /Users/mrinalmohit/.gradle/caches/8.9/transforms/d9e43a88cfd706f0e52479f34648a1b6/transformed/jetified-activity-1.8.1/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-lifecycle-runtime-2.7.0-18 /Users/mrinalmohit/.gradle/caches/8.9/transforms/e4f1b8f997b28fbb4df269a193aa6f05/transformed/lifecycle-runtime-2.7.0/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-core-ktx-1.13.1-19 /Users/mrinalmohit/.gradle/caches/8.9/transforms/f5eb6d793ea4bbaa511c8d25f192bfeb/transformed/jetified-core-ktx-1.13.1/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-main-20 /Users/mrinalmohit/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.24/android/src/main/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-release-21 /Users/mrinalmohit/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.24/android/src/release/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-pngs-22 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/flutter_plugin_android_lifecycle/generated/res/pngs/release
+io.flutter.plugins.flutter_plugin_android_lifecycle-resValues-23 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/flutter_plugin_android_lifecycle/generated/res/resValues/release
+io.flutter.plugins.flutter_plugin_android_lifecycle-mergeReleaseResources-24 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/flutter_plugin_android_lifecycle/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.flutter_plugin_android_lifecycle-mergeReleaseResources-25 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/flutter_plugin_android_lifecycle/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.flutter_plugin_android_lifecycle-release-26 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release/mergeReleaseResources

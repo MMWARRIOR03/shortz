@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.retrytech.bubbly_camera-release-47:/interpolator-v21/mtrl_fast_out_linear_in.xml",
+        "source": "com.retrytech.bubbly_camera-material-1.6.0-10:/interpolator-v21/mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "com.retrytech.bubbly_camera-release-47:/interpolator-v21/mtrl_fast_out_slow_in.xml",
+        "source": "com.retrytech.bubbly_camera-material-1.6.0-10:/interpolator-v21/mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "com.retrytech.bubbly_camera-release-47:/interpolator-v21/mtrl_linear_out_slow_in.xml",
+        "source": "com.retrytech.bubbly_camera-material-1.6.0-10:/interpolator-v21/mtrl_linear_out_slow_in.xml"
+    }
+]

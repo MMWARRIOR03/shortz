@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/Users/mrinalmohit/.pub-cache/hosted/pub.dev/flutter_branch_sdk-8.3.2/android"
+    name=":flutter_branch_sdk"
+    type="LIBRARY"
+    maven="br.com.rsmarques.flutter_branch_sdk:flutter_branch_sdk:1.0"
+    agpVersion="8.5.2"
+    buildFolder="/Users/mrinalmohit/Documents/Flutter apps/shortz/build/flutter_branch_sdk"
+    bootClassPath="/Users/mrinalmohit/Library/Android/sdk/platforms/android-35/android.jar:/Users/mrinalmohit/Library/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="11"
+    compileTarget="android-35"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

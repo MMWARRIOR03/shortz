@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+                                                                   
+
+    
+
+           
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" android:tag="layout/item_camera_view_0" xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <com.retrytech.bubbly_camera.AutoFitTextureView
+            android:id="@+id/viewFinder"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+
+    </RelativeLayout>
+         

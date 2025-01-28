@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "net.touchcapture.qr.flutterqrplus.qr_code_scanner_plus-release-30:/layout-v21/notification_template_custom_big.xml",
+        "source": "net.touchcapture.qr.flutterqrplus.qr_code_scanner_plus-core-1.13.1-7:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "net.touchcapture.qr.flutterqrplus.qr_code_scanner_plus-release-30:/layout-v21/notification_action_tombstone.xml",
+        "source": "net.touchcapture.qr.flutterqrplus.qr_code_scanner_plus-core-1.13.1-7:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "net.touchcapture.qr.flutterqrplus.qr_code_scanner_plus-release-30:/layout-v21/notification_template_icon_group.xml",
+        "source": "net.touchcapture.qr.flutterqrplus.qr_code_scanner_plus-core-1.13.1-7:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "net.touchcapture.qr.flutterqrplus.qr_code_scanner_plus-release-30:/layout-v21/notification_action.xml",
+        "source": "net.touchcapture.qr.flutterqrplus.qr_code_scanner_plus-core-1.13.1-7:/layout-v21/notification_action.xml"
+    }
+]

@@ -1,0 +1,31 @@
+<variant
+    name="release"
+    package="com.retrytech.bubbly_camera"
+    minSdkVersion="21"
+    targetSdkVersion="21"
+    mergedManifest="/Users/mrinalmohit/Documents/Flutter apps/shortz/build/bubbly_camera/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml"
+    manifestMergeReport="/Users/mrinalmohit/Documents/Flutter apps/shortz/build/bubbly_camera/outputs/logs/manifest-merger-release-report.txt"
+    proguardFiles="/Users/mrinalmohit/Documents/Flutter apps/shortz/build/bubbly_camera/intermediates/default_proguard_files/global/proguard-android.txt-8.5.2"
+    partialResultsDir="/Users/mrinalmohit/Documents/Flutter apps/shortz/build/bubbly_camera/intermediates/lint_partial_results/release/lintAnalyzeRelease/out">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="src/main/AndroidManifest.xml"
+        javaDirectories="src/main/java:src/main/kotlin/com/retrytech/bubbly_camera:src/release/java:src/main/kotlin:src/release/kotlin"
+        resDirectories="src/main/res:src/release/res"
+        assetsDirectories="src/main/assets:src/release/assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <artifact
+      classOutputs="/Users/mrinalmohit/Documents/Flutter apps/shortz/build/bubbly_camera/intermediates/javac/release/compileReleaseJavaWithJavac/classes:/Users/mrinalmohit/Documents/Flutter apps/shortz/build/bubbly_camera/tmp/kotlin-classes/release:/Users/mrinalmohit/Documents/Flutter apps/shortz/build/bubbly_camera/intermediates/compile_r_class_jar/release/generateReleaseRFile/R.jar"
+      type="MAIN"
+      applicationId="com.retrytech.bubbly_camera"
+      generatedSourceFolders="/Users/mrinalmohit/Documents/Flutter apps/shortz/build/bubbly_camera/generated/ap_generated_sources/release/out:/Users/mrinalmohit/Documents/Flutter apps/shortz/build/bubbly_camera/generated/data_binding_base_class_source_out/release/out"
+      generatedResourceFolders="/Users/mrinalmohit/Documents/Flutter apps/shortz/build/bubbly_camera/generated/res/resValues/release"
+      desugaredMethodsFiles="/Users/mrinalmohit/.gradle/caches/8.9/transforms/5ff1b2864bf51b792dfbd9f4e55be05f/transformed/D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>

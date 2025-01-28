@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/Users/mrinalmohit/Documents/Flutter apps/shortz/CameraPlugin/camera/android"
+    name=":bubbly_camera"
+    type="LIBRARY"
+    maven="com.retrytech.bubbly_camera:bubbly_camera:1.0-SNAPSHOT"
+    agpVersion="8.5.2"
+    buildFolder="/Users/mrinalmohit/Documents/Flutter apps/shortz/build/bubbly_camera"
+    bootClassPath="/Users/mrinalmohit/Library/Android/sdk/platforms/android-34/android.jar:/Users/mrinalmohit/Library/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

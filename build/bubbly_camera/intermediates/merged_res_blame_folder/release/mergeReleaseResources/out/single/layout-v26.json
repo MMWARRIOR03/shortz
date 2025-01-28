@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.retrytech.bubbly_camera-release-47:/layout-v26/abc_screen_toolbar.xml",
+        "source": "com.retrytech.bubbly_camera-appcompat-1.4.1-4:/layout-v26/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "com.retrytech.bubbly_camera-release-47:/layout-v26/mtrl_calendar_month.xml",
+        "source": "com.retrytech.bubbly_camera-material-1.6.0-10:/layout-v26/mtrl_calendar_month.xml"
+    }
+]

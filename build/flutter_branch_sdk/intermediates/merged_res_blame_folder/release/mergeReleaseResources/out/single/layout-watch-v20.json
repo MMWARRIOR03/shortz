@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "br.com.rsmarques.flutter_branch_sdk-release-32:/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "br.com.rsmarques.flutter_branch_sdk-appcompat-1.2.0-0:/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "br.com.rsmarques.flutter_branch_sdk-release-32:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "br.com.rsmarques.flutter_branch_sdk-appcompat-1.2.0-0:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">463711886346-b3vpva96nbqqaa4hjjs3ud0kvlhc0msa.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://bubbly-dae95-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">463711886346</string>
+    <string name="google_api_key" translatable="false">AIzaSyDJcDArK_Fx5qt2A8JHD4MKj6hNkePVBnA</string>
+    <string name="google_app_id" translatable="false">1:463711886346:android:620354d51464fa291813f3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDJcDArK_Fx5qt2A8JHD4MKj6hNkePVBnA</string>
+    <string name="google_storage_bucket" translatable="false">bubbly-dae95.appspot.com</string>
+    <string name="project_id" translatable="false">bubbly-dae95</string>
+</resources>

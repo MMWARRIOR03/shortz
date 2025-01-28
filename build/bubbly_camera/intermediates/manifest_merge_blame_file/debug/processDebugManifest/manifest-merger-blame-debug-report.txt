@@ -1,0 +1,40 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.retrytech.bubbly_camera" >
+4
+5    <uses-sdk android:minSdkVersion="21" />
+6
+7    <uses-permission android:name="android.permission.CAMERA" />
+7-->/Users/mrinalmohit/Documents/Flutter apps/shortz/CameraPlugin/camera/android/src/main/AndroidManifest.xml:5:5-65
+7-->/Users/mrinalmohit/Documents/Flutter apps/shortz/CameraPlugin/camera/android/src/main/AndroidManifest.xml:5:22-62
+8    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+8-->/Users/mrinalmohit/Documents/Flutter apps/shortz/CameraPlugin/camera/android/src/main/AndroidManifest.xml:6:5-80
+8-->/Users/mrinalmohit/Documents/Flutter apps/shortz/CameraPlugin/camera/android/src/main/AndroidManifest.xml:6:22-77
+9    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+9-->/Users/mrinalmohit/Documents/Flutter apps/shortz/CameraPlugin/camera/android/src/main/AndroidManifest.xml:7:5-81
+9-->/Users/mrinalmohit/Documents/Flutter apps/shortz/CameraPlugin/camera/android/src/main/AndroidManifest.xml:7:22-78
+10    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+10-->/Users/mrinalmohit/Documents/Flutter apps/shortz/CameraPlugin/camera/android/src/main/AndroidManifest.xml:8:5-71
+10-->/Users/mrinalmohit/Documents/Flutter apps/shortz/CameraPlugin/camera/android/src/main/AndroidManifest.xml:8:22-68
+11    <uses-permission android:name="com.android.vending.BILLING" />
+11-->/Users/mrinalmohit/Documents/Flutter apps/shortz/CameraPlugin/camera/android/src/main/AndroidManifest.xml:10:5-67
+11-->/Users/mrinalmohit/Documents/Flutter apps/shortz/CameraPlugin/camera/android/src/main/AndroidManifest.xml:10:22-64
+12    <!-- <uses-feature android:name="android.hardware.camera2.full" /> -->
+13
+14
+15    <!-- <uses-feature android:name="android.hardware.camera.flash" /> -->
+16
+17    <permission
+17-->/Users/mrinalmohit/Documents/Flutter apps/shortz/CameraPlugin/camera/android/src/main/AndroidManifest.xml:15:5-17:58
+18        android:name="android.permission.CAPTURE_AUDIO_OUTPUT"
+18-->/Users/mrinalmohit/Documents/Flutter apps/shortz/CameraPlugin/camera/android/src/main/AndroidManifest.xml:16:9-63
+19        android:protectionLevel="signature|privileged" />
+19-->/Users/mrinalmohit/Documents/Flutter apps/shortz/CameraPlugin/camera/android/src/main/AndroidManifest.xml:17:9-55
+20
+21    <!-- <uses-feature android:name="android.hardware.camera.autofocus" /> -->
+22    <application android:requestLegacyExternalStorage="true" >
+22-->/Users/mrinalmohit/Documents/Flutter apps/shortz/CameraPlugin/camera/android/src/main/AndroidManifest.xml:20:5-22:19
+22-->/Users/mrinalmohit/Documents/Flutter apps/shortz/CameraPlugin/camera/android/src/main/AndroidManifest.xml:20:18-61
+23    </application>
+24
+25</manifest>

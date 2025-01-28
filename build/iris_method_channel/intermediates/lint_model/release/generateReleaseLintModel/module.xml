@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/Users/mrinalmohit/.pub-cache/hosted/pub.dev/iris_method_channel-2.2.2/android"
+    name=":iris_method_channel"
+    type="LIBRARY"
+    maven="com.agora.iris_method_channel:iris_method_channel:1.0"
+    agpVersion="8.5.2"
+    buildFolder="/Users/mrinalmohit/Documents/Flutter apps/shortz/build/iris_method_channel"
+    bootClassPath="/Users/mrinalmohit/Library/Android/sdk/platforms/android-31/android.jar:/Users/mrinalmohit/Library/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-31"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

@@ -1,0 +1,122 @@
+com.retrytech.bubbly.app-databinding-adapters-8.5.2-0 /Users/mrinalmohit/.gradle/caches/8.9/transforms/02cfd2761091716d619c5cc4237d7f9b/transformed/databinding-adapters-8.5.2/res
+com.retrytech.bubbly.app-sqlite-framework-2.3.0-1 /Users/mrinalmohit/.gradle/caches/8.9/transforms/036df2e78c60c5fe99c3e77322f23835/transformed/sqlite-framework-2.3.0/res
+com.retrytech.bubbly.app-jetified-annotation-experimental-1.4.0-2 /Users/mrinalmohit/.gradle/caches/8.9/transforms/06d8cd999ae639b9a2c8456f84edb213/transformed/jetified-annotation-experimental-1.4.0/res
+com.retrytech.bubbly.app-jetified-billing-6.2.0-3 /Users/mrinalmohit/.gradle/caches/8.9/transforms/083fc2556ae418a62ca700e504f89bc1/transformed/jetified-billing-6.2.0/res
+com.retrytech.bubbly.app-jetified-savedstate-1.2.1-4 /Users/mrinalmohit/.gradle/caches/8.9/transforms/08bc8852f31102ca4239d4777d71eaba/transformed/jetified-savedstate-1.2.1/res
+com.retrytech.bubbly.app-drawerlayout-1.1.1-5 /Users/mrinalmohit/.gradle/caches/8.9/transforms/0d6cc94dd59d69e148912def70b85cf5/transformed/drawerlayout-1.1.1/res
+com.retrytech.bubbly.app-jetified-lifecycle-viewmodel-ktx-2.8.7-6 /Users/mrinalmohit/.gradle/caches/8.9/transforms/13eb6a539cabae2004f020137c5c2888/transformed/jetified-lifecycle-viewmodel-ktx-2.8.7/res
+com.retrytech.bubbly.app-jetified-play-services-base-18.5.0-7 /Users/mrinalmohit/.gradle/caches/8.9/transforms/15f5afac3cd9de5318df0a433199dd41/transformed/jetified-play-services-base-18.5.0/res
+com.retrytech.bubbly.app-lifecycle-livedata-2.8.7-8 /Users/mrinalmohit/.gradle/caches/8.9/transforms/1b103c5eb0507e7a4249725dce16274a/transformed/lifecycle-livedata-2.8.7/res
+com.retrytech.bubbly.app-preference-1.2.1-9 /Users/mrinalmohit/.gradle/caches/8.9/transforms/1bf767469e882ceedb64cc2bd079d0bf/transformed/preference-1.2.1/res
+com.retrytech.bubbly.app-jetified-emoji2-views-helper-1.2.0-10 /Users/mrinalmohit/.gradle/caches/8.9/transforms/1cf1c5f192ed8a52f05dc82d7a4a9c5d/transformed/jetified-emoji2-views-helper-1.2.0/res
+com.retrytech.bubbly.app-jetified-window-java-1.2.0-11 /Users/mrinalmohit/.gradle/caches/8.9/transforms/1d18da0d23c05096aabaa90c56582561/transformed/jetified-window-java-1.2.0/res
+com.retrytech.bubbly.app-jetified-core-common-2.0.3-12 /Users/mrinalmohit/.gradle/caches/8.9/transforms/1fc4ff20c020f500409a5416bc42c5ee/transformed/jetified-core-common-2.0.3/res
+com.retrytech.bubbly.app-jetified-lifecycle-runtime-release-13 /Users/mrinalmohit/.gradle/caches/8.9/transforms/2298f90b7d817282a43cec99418ad771/transformed/jetified-lifecycle-runtime-release/res
+com.retrytech.bubbly.app-material-1.6.0-14 /Users/mrinalmohit/.gradle/caches/8.9/transforms/24a9bb412ee35560e2fa4c83917b3737/transformed/material-1.6.0/res
+com.retrytech.bubbly.app-localbroadcastmanager-1.1.0-15 /Users/mrinalmohit/.gradle/caches/8.9/transforms/36b4e77202b3eff4e4e90de6390d49d2/transformed/localbroadcastmanager-1.1.0/res
+com.retrytech.bubbly.app-jetified-datastore-release-16 /Users/mrinalmohit/.gradle/caches/8.9/transforms/3809ea67e9493ee9f236c541c2af7c02/transformed/jetified-datastore-release/res
+com.retrytech.bubbly.app-jetified-lifecycle-process-2.8.7-17 /Users/mrinalmohit/.gradle/caches/8.9/transforms/390d77948be8dbf2004c33855ad660dc/transformed/jetified-lifecycle-process-2.8.7/res
+com.retrytech.bubbly.app-jetified-camera-core-1.2.0-alpha03-18 /Users/mrinalmohit/.gradle/caches/8.9/transforms/3a7630141c4e99ee6f73bac7863f6951/transformed/jetified-camera-core-1.2.0-alpha03/res
+com.retrytech.bubbly.app-core-1.13.1-19 /Users/mrinalmohit/.gradle/caches/8.9/transforms/3cda7ab98978aa6c4e584ecab06ff336/transformed/core-1.13.1/res
+com.retrytech.bubbly.app-jetified-camera-extensions-1.2.0-alpha03-20 /Users/mrinalmohit/.gradle/caches/8.9/transforms/495bb82578b5980cb81d81a5da21c53c/transformed/jetified-camera-extensions-1.2.0-alpha03/res
+com.retrytech.bubbly.app-appcompat-1.6.1-21 /Users/mrinalmohit/.gradle/caches/8.9/transforms/49f0c47cfffbb9c8faf5eff65aa831eb/transformed/appcompat-1.6.1/res
+com.retrytech.bubbly.app-jetified-camera-view-1.2.0-alpha03-22 /Users/mrinalmohit/.gradle/caches/8.9/transforms/4c8bd1813dc6946f9afcea39eb88387b/transformed/jetified-camera-view-1.2.0-alpha03/res
+com.retrytech.bubbly.app-databinding-runtime-8.5.2-23 /Users/mrinalmohit/.gradle/caches/8.9/transforms/4c918f703155c9bd97de3d56d206559c/transformed/databinding-runtime-8.5.2/res
+com.retrytech.bubbly.app-jetified-credentials-1.2.0-rc01-24 /Users/mrinalmohit/.gradle/caches/8.9/transforms/4f5ad498ed7d09a4105269f17c4ec546/transformed/jetified-credentials-1.2.0-rc01/res
+com.retrytech.bubbly.app-jetified-fragment-ktx-1.7.1-25 /Users/mrinalmohit/.gradle/caches/8.9/transforms/5039cda511043ee13ca350c0f69ebe66/transformed/jetified-fragment-ktx-1.7.1/res
+com.retrytech.bubbly.app-jetified-activity-1.9.3-26 /Users/mrinalmohit/.gradle/caches/8.9/transforms/553ea9b37d3e6890292be9c55d6fe3c9/transformed/jetified-activity-1.9.3/res
+com.retrytech.bubbly.app-media-1.1.0-27 /Users/mrinalmohit/.gradle/caches/8.9/transforms/56cfdd6d476315e9cd8c9bdd1e2963eb/transformed/media-1.1.0/res
+com.retrytech.bubbly.app-recyclerview-1.1.0-28 /Users/mrinalmohit/.gradle/caches/8.9/transforms/5c89470a7c12c755fda5e7bad56e9298/transformed/recyclerview-1.1.0/res
+com.retrytech.bubbly.app-constraintlayout-2.1.4-29 /Users/mrinalmohit/.gradle/caches/8.9/transforms/5d65b77a41c3bcddab0eb3391e97519f/transformed/constraintlayout-2.1.4/res
+com.retrytech.bubbly.app-jetified-credentials-play-services-auth-1.2.0-rc01-30 /Users/mrinalmohit/.gradle/caches/8.9/transforms/5f63f64ea4e44c4872e1e37be7d3b5be/transformed/jetified-credentials-play-services-auth-1.2.0-rc01/res
+com.retrytech.bubbly.app-jetified-activity-ktx-1.9.3-31 /Users/mrinalmohit/.gradle/caches/8.9/transforms/610c2ef2602520dcc83f7d444bcd2723/transformed/jetified-activity-ktx-1.9.3/res
+com.retrytech.bubbly.app-jetified-startup-runtime-1.1.1-32 /Users/mrinalmohit/.gradle/caches/8.9/transforms/61810abc446ef04e4d583211f7c37208/transformed/jetified-startup-runtime-1.1.1/res
+com.retrytech.bubbly.app-jetified-datastore-preferences-release-33 /Users/mrinalmohit/.gradle/caches/8.9/transforms/61c5d7cd541ba9c5784df9e229ce1e95/transformed/jetified-datastore-preferences-release/res
+com.retrytech.bubbly.app-jetified-media3-exoplayer-1.4.0-34 /Users/mrinalmohit/.gradle/caches/8.9/transforms/666515abc632b5524cce8d2880c1d385/transformed/jetified-media3-exoplayer-1.4.0/res
+com.retrytech.bubbly.app-jetified-play-services-basement-18.4.0-35 /Users/mrinalmohit/.gradle/caches/8.9/transforms/688e4e91dc66e3fe80887db7b7b9c8b5/transformed/jetified-play-services-basement-18.4.0/res
+com.retrytech.bubbly.app-jetified-appcompat-resources-1.6.1-36 /Users/mrinalmohit/.gradle/caches/8.9/transforms/6bf10abf77359c54b1a49216d442bad8/transformed/jetified-appcompat-resources-1.6.1/res
+com.retrytech.bubbly.app-room-runtime-2.5.0-37 /Users/mrinalmohit/.gradle/caches/8.9/transforms/6d1783848ffcd7094db84c5282d0139b/transformed/room-runtime-2.5.0/res
+com.retrytech.bubbly.app-jetified-play-services-ads-lite-23.4.0-38 /Users/mrinalmohit/.gradle/caches/8.9/transforms/7067e963503a998c3f398ca9244a0edd/transformed/jetified-play-services-ads-lite-23.4.0/res
+com.retrytech.bubbly.app-lifecycle-livedata-core-2.8.7-39 /Users/mrinalmohit/.gradle/caches/8.9/transforms/71034b689aeecba4a531e4d34a5cccfd/transformed/lifecycle-livedata-core-2.8.7/res
+com.retrytech.bubbly.app-jetified-firebase-messaging-24.1.0-40 /Users/mrinalmohit/.gradle/caches/8.9/transforms/76acd49d1c4fb68adcff4dc9df9b5ecd/transformed/jetified-firebase-messaging-24.1.0/res
+com.retrytech.bubbly.app-work-runtime-2.9.0-41 /Users/mrinalmohit/.gradle/caches/8.9/transforms/78f1833543a179f14072a1bc712fe304/transformed/work-runtime-2.9.0/res
+com.retrytech.bubbly.app-jetified-play-services-measurement-api-22.1.2-42 /Users/mrinalmohit/.gradle/caches/8.9/transforms/7c165f1377f17d93632176d1a1a9b2d5/transformed/jetified-play-services-measurement-api-22.1.2/res
+com.retrytech.bubbly.app-coordinatorlayout-1.1.0-43 /Users/mrinalmohit/.gradle/caches/8.9/transforms/7e605dea51482aab15e71de92fed02b6/transformed/coordinatorlayout-1.1.0/res
+com.retrytech.bubbly.app-jetified-profileinstaller-1.3.1-44 /Users/mrinalmohit/.gradle/caches/8.9/transforms/80153a86fd6536280be1fe9b8b81e47a/transformed/jetified-profileinstaller-1.3.1/res
+com.retrytech.bubbly.app-cardview-1.0.0-45 /Users/mrinalmohit/.gradle/caches/8.9/transforms/80f7c879db71bb0cea21b23ce8e13908/transformed/cardview-1.0.0/res
+com.retrytech.bubbly.app-jetified-play-services-auth-21.0.0-46 /Users/mrinalmohit/.gradle/caches/8.9/transforms/85b0a998890b2ffd847d61821ee7c7b2/transformed/jetified-play-services-auth-21.0.0/res
+com.retrytech.bubbly.app-core-runtime-2.2.0-47 /Users/mrinalmohit/.gradle/caches/8.9/transforms/871c5c84a1ccc19876007a7a5066fb64/transformed/core-runtime-2.2.0/res
+com.retrytech.bubbly.app-jetified-lifecycle-service-2.8.7-48 /Users/mrinalmohit/.gradle/caches/8.9/transforms/88e3c66ab666ba758992178e90e8d439/transformed/jetified-lifecycle-service-2.8.7/res
+com.retrytech.bubbly.app-jetified-lifecycle-viewmodel-savedstate-2.8.7-49 /Users/mrinalmohit/.gradle/caches/8.9/transforms/89bc0d8e9aa9ced28c4821d820801589/transformed/jetified-lifecycle-viewmodel-savedstate-2.8.7/res
+com.retrytech.bubbly.app-jetified-firebase-common-21.0.0-50 /Users/mrinalmohit/.gradle/caches/8.9/transforms/8c615d24dc7e1eb711bbfcaae4774200/transformed/jetified-firebase-common-21.0.0/res
+com.retrytech.bubbly.app-jetified-iris-rtc-4.5.0-build.1-51 /Users/mrinalmohit/.gradle/caches/8.9/transforms/960e23c0872e241b456b4ec4e172d58a/transformed/jetified-iris-rtc-4.5.0-build.1/res
+com.retrytech.bubbly.app-jetified-room-ktx-2.5.0-52 /Users/mrinalmohit/.gradle/caches/8.9/transforms/961ffa29fff3401365cc6dbede974beb/transformed/jetified-room-ktx-2.5.0/res
+com.retrytech.bubbly.app-jetified-ffmpeg-kit-full-6.0-2-53 /Users/mrinalmohit/.gradle/caches/8.9/transforms/988094b8c13156228f6a3aad8e5149dd/transformed/jetified-ffmpeg-kit-full-6.0-2/res
+com.retrytech.bubbly.app-sqlite-2.3.0-54 /Users/mrinalmohit/.gradle/caches/8.9/transforms/99f9a70c3ee1241afb94728198eaf2ca/transformed/sqlite-2.3.0/res
+com.retrytech.bubbly.app-jetified-emoji2-1.2.0-55 /Users/mrinalmohit/.gradle/caches/8.9/transforms/9ca32007f7324c6f48749ab5e91e8978/transformed/jetified-emoji2-1.2.0/res
+com.retrytech.bubbly.app-jetified-window-1.2.0-56 /Users/mrinalmohit/.gradle/caches/8.9/transforms/a890e60e336ca6df1c94d5d74fc71963/transformed/jetified-window-1.2.0/res
+com.retrytech.bubbly.app-jetified-datastore-core-release-57 /Users/mrinalmohit/.gradle/caches/8.9/transforms/a97e9c349a16315cc2a1a0d02d47d467/transformed/jetified-datastore-core-release/res
+com.retrytech.bubbly.app-jetified-agora-special-full-4.5.0.1-58 /Users/mrinalmohit/.gradle/caches/8.9/transforms/b423a34bb6f04bfbe705a26b0757e2d5/transformed/jetified-agora-special-full-4.5.0.1/res
+com.retrytech.bubbly.app-jetified-tracing-1.2.0-59 /Users/mrinalmohit/.gradle/caches/8.9/transforms/c12a841cddda8854fe26786ad68d353b/transformed/jetified-tracing-1.2.0/res
+com.retrytech.bubbly.app-transition-1.4.1-60 /Users/mrinalmohit/.gradle/caches/8.9/transforms/c2e1ff352743fee16c910f7cc9c3175c/transformed/transition-1.4.1/res
+com.retrytech.bubbly.app-webkit-1.12.0-61 /Users/mrinalmohit/.gradle/caches/8.9/transforms/c2f64e2a60810451ebc835c53a7c02fd/transformed/webkit-1.12.0/res
+com.retrytech.bubbly.app-jetified-camera-lifecycle-1.2.0-alpha03-62 /Users/mrinalmohit/.gradle/caches/8.9/transforms/c303b7770299a772af1416182321e299/transformed/jetified-camera-lifecycle-1.2.0-alpha03/res
+com.retrytech.bubbly.app-jetified-camera-camera2-1.2.0-alpha03-63 /Users/mrinalmohit/.gradle/caches/8.9/transforms/c5388e272f63c40e4c2cf24b6b098abd/transformed/jetified-camera-camera2-1.2.0-alpha03/res
+com.retrytech.bubbly.app-jetified-camera-video-1.2.0-alpha03-64 /Users/mrinalmohit/.gradle/caches/8.9/transforms/caa3ed9ed9ea3a129f489c022d0cd6d4/transformed/jetified-camera-video-1.2.0-alpha03/res
+com.retrytech.bubbly.app-fragment-1.7.1-65 /Users/mrinalmohit/.gradle/caches/8.9/transforms/cbc2214f893a44a16d2d421ad47468a6/transformed/fragment-1.7.1/res
+com.retrytech.bubbly.app-jetified-core-1.0.0-66 /Users/mrinalmohit/.gradle/caches/8.9/transforms/d3a85fb47a0f2b141ddc3d608f34d8ac/transformed/jetified-core-1.0.0/res
+com.retrytech.bubbly.app-jetified-lifecycle-viewmodel-release-67 /Users/mrinalmohit/.gradle/caches/8.9/transforms/d4ece8784791db71cbdc63f7fef5432a/transformed/jetified-lifecycle-viewmodel-release/res
+com.retrytech.bubbly.app-jetified-savedstate-ktx-1.2.1-68 /Users/mrinalmohit/.gradle/caches/8.9/transforms/d661a82a560297e5d99ea2a9883db5b5/transformed/jetified-savedstate-ktx-1.2.1/res
+com.retrytech.bubbly.app-jetified-lifecycle-livedata-core-ktx-2.8.7-69 /Users/mrinalmohit/.gradle/caches/8.9/transforms/d6a4bda0bb29c4a65cd7d95f540c84d5/transformed/jetified-lifecycle-livedata-core-ktx-2.8.7/res
+com.retrytech.bubbly.app-slidingpanelayout-1.2.0-70 /Users/mrinalmohit/.gradle/caches/8.9/transforms/dbede204f50a82bb56f315166ee9ca67/transformed/slidingpanelayout-1.2.0/res
+com.retrytech.bubbly.app-jetified-viewpager2-1.0.0-71 /Users/mrinalmohit/.gradle/caches/8.9/transforms/dd24797b20a9773ccb861d9e304a108e/transformed/jetified-viewpager2-1.0.0/res
+com.retrytech.bubbly.app-jetified-ads-adservices-java-1.0.0-beta05-72 /Users/mrinalmohit/.gradle/caches/8.9/transforms/eb788e0ade83223f2804eb2c71d02fcc/transformed/jetified-ads-adservices-java-1.0.0-beta05/res
+com.retrytech.bubbly.app-jetified-ads-adservices-1.0.0-beta05-73 /Users/mrinalmohit/.gradle/caches/8.9/transforms/eec007f4b6b427a54fa508ad088aad75/transformed/jetified-ads-adservices-1.0.0-beta05/res
+com.retrytech.bubbly.app-jetified-zxing-android-embedded-4.3.0-74 /Users/mrinalmohit/.gradle/caches/8.9/transforms/ef6ffa98f29a6fa8623c28610fe2fbcf/transformed/jetified-zxing-android-embedded-4.3.0/res
+com.retrytech.bubbly.app-jetified-core-ktx-1.13.1-75 /Users/mrinalmohit/.gradle/caches/8.9/transforms/f5eb6d793ea4bbaa511c8d25f192bfeb/transformed/jetified-core-ktx-1.13.1/res
+com.retrytech.bubbly.app-jetified-library-5.15.0-76 /Users/mrinalmohit/.gradle/caches/8.9/transforms/f755ac6435756dfb6c0d1cba7dcfec01/transformed/jetified-library-5.15.0/res
+com.retrytech.bubbly.app-browser-1.8.0-77 /Users/mrinalmohit/.gradle/caches/8.9/transforms/f7beffaeba01c9db365652bd35d04a5c/transformed/browser-1.8.0/res
+com.retrytech.bubbly.app-jetified-lifecycle-runtime-ktx-release-78 /Users/mrinalmohit/.gradle/caches/8.9/transforms/f7ea5604305b1e17c4b35c7b971df5cf/transformed/jetified-lifecycle-runtime-ktx-release/res
+com.retrytech.bubbly.app-jetified-play-services-ads-23.4.0-79 /Users/mrinalmohit/.gradle/caches/8.9/transforms/fa30f58990f49101bf830d039f3be9ab/transformed/jetified-play-services-ads-23.4.0/res
+com.retrytech.bubbly.app-debug-80 /Users/mrinalmohit/Documents/Flutter apps/shortz/android/app/src/debug/res
+com.retrytech.bubbly.app-main-81 /Users/mrinalmohit/Documents/Flutter apps/shortz/android/app/src/main/res
+com.retrytech.bubbly.app-debug-82 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/agora_rtc_engine/intermediates/packaged_res/debug/packageDebugResources
+com.retrytech.bubbly.app-pngs-83 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/app/generated/res/pngs/debug
+com.retrytech.bubbly.app-res-84 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/app/generated/res/processDebugGoogleServices
+com.retrytech.bubbly.app-resValues-85 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/app/generated/res/resValues/debug
+com.retrytech.bubbly.app-mergeDebugResources-86 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.retrytech.bubbly.app-mergeDebugResources-87 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.retrytech.bubbly.app-debug-88 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/app/intermediates/merged_res/debug/mergeDebugResources
+com.retrytech.bubbly.app-debug-89 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/audioplayers_android/intermediates/packaged_res/debug/packageDebugResources
+com.retrytech.bubbly.app-debug-90 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/bubbly_camera/intermediates/packaged_res/debug/packageDebugResources
+com.retrytech.bubbly.app-debug-91 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/cloud_firestore/intermediates/packaged_res/debug/packageDebugResources
+com.retrytech.bubbly.app-debug-92 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/device_info_plus/intermediates/packaged_res/debug/packageDebugResources
+com.retrytech.bubbly.app-debug-93 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/ffmpeg_kit_flutter_full/intermediates/packaged_res/debug/packageDebugResources
+com.retrytech.bubbly.app-debug-94 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/firebase_auth/intermediates/packaged_res/debug/packageDebugResources
+com.retrytech.bubbly.app-debug-95 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/firebase_core/intermediates/packaged_res/debug/packageDebugResources
+com.retrytech.bubbly.app-debug-96 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/firebase_messaging/intermediates/packaged_res/debug/packageDebugResources
+com.retrytech.bubbly.app-debug-97 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/flutter_branch_sdk/intermediates/packaged_res/debug/packageDebugResources
+com.retrytech.bubbly.app-debug-98 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/flutter_downloader/intermediates/packaged_res/debug/packageDebugResources
+com.retrytech.bubbly.app-debug-99 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/flutter_local_notifications/intermediates/packaged_res/debug/packageDebugResources
+com.retrytech.bubbly.app-debug-100 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/flutter_plugin_android_lifecycle/intermediates/packaged_res/debug/packageDebugResources
+com.retrytech.bubbly.app-debug-101 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/flutter_video_info/intermediates/packaged_res/debug/packageDebugResources
+com.retrytech.bubbly.app-debug-102 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/fluttertoast/intermediates/packaged_res/debug/packageDebugResources
+com.retrytech.bubbly.app-debug-103 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/google_mobile_ads/intermediates/packaged_res/debug/packageDebugResources
+com.retrytech.bubbly.app-debug-104 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/google_sign_in_android/intermediates/packaged_res/debug/packageDebugResources
+com.retrytech.bubbly.app-debug-105 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/image_picker_android/intermediates/packaged_res/debug/packageDebugResources
+com.retrytech.bubbly.app-debug-106 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/in_app_purchase_android/intermediates/packaged_res/debug/packageDebugResources
+com.retrytech.bubbly.app-debug-107 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/iris_method_channel/intermediates/packaged_res/debug/packageDebugResources
+com.retrytech.bubbly.app-debug-108 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/package_info_plus/intermediates/packaged_res/debug/packageDebugResources
+com.retrytech.bubbly.app-debug-109 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/path_provider_android/intermediates/packaged_res/debug/packageDebugResources
+com.retrytech.bubbly.app-debug-110 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/permission_handler_android/intermediates/packaged_res/debug/packageDebugResources
+com.retrytech.bubbly.app-debug-111 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/qr_code_scanner_plus/intermediates/packaged_res/debug/packageDebugResources
+com.retrytech.bubbly.app-debug-112 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/saver_gallery/intermediates/packaged_res/debug/packageDebugResources
+com.retrytech.bubbly.app-debug-113 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/share_plus/intermediates/packaged_res/debug/packageDebugResources
+com.retrytech.bubbly.app-debug-114 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/shared_preferences_android/intermediates/packaged_res/debug/packageDebugResources
+com.retrytech.bubbly.app-debug-115 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/sign_in_with_apple/intermediates/packaged_res/debug/packageDebugResources
+com.retrytech.bubbly.app-debug-116 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/sqflite_android/intermediates/packaged_res/debug/packageDebugResources
+com.retrytech.bubbly.app-debug-117 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/url_launcher_android/intermediates/packaged_res/debug/packageDebugResources
+com.retrytech.bubbly.app-debug-118 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/video_player_android/intermediates/packaged_res/debug/packageDebugResources
+com.retrytech.bubbly.app-debug-119 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/video_thumbnail/intermediates/packaged_res/debug/packageDebugResources
+com.retrytech.bubbly.app-debug-120 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/wakelock_plus/intermediates/packaged_res/debug/packageDebugResources
+com.retrytech.bubbly.app-debug-121 /Users/mrinalmohit/Documents/Flutter apps/shortz/build/webview_flutter_android/intermediates/packaged_res/debug/packageDebugResources

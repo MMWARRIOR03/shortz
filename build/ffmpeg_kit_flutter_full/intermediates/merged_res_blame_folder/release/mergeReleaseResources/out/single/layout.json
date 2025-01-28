@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.arthenica.ffmpegkit.flutter.ffmpeg_kit_flutter_full-release-26:/layout/ime_base_split_test_activity.xml",
+        "source": "com.arthenica.ffmpegkit.flutter.ffmpeg_kit_flutter_full-core-1.13.1-6:/layout/ime_base_split_test_activity.xml"
+    },
+    {
+        "merged": "com.arthenica.ffmpegkit.flutter.ffmpeg_kit_flutter_full-release-26:/layout/notification_template_part_chronometer.xml",
+        "source": "com.arthenica.ffmpegkit.flutter.ffmpeg_kit_flutter_full-core-1.13.1-6:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.arthenica.ffmpegkit.flutter.ffmpeg_kit_flutter_full-release-26:/layout/notification_template_part_time.xml",
+        "source": "com.arthenica.ffmpegkit.flutter.ffmpeg_kit_flutter_full-core-1.13.1-6:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.arthenica.ffmpegkit.flutter.ffmpeg_kit_flutter_full-release-26:/layout/ime_secondary_split_test_activity.xml",
+        "source": "com.arthenica.ffmpegkit.flutter.ffmpeg_kit_flutter_full-core-1.13.1-6:/layout/ime_secondary_split_test_activity.xml"
+    },
+    {
+        "merged": "com.arthenica.ffmpegkit.flutter.ffmpeg_kit_flutter_full-release-26:/layout/custom_dialog.xml",
+        "source": "com.arthenica.ffmpegkit.flutter.ffmpeg_kit_flutter_full-core-1.13.1-6:/layout/custom_dialog.xml"
+    }
+]
